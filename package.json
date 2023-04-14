@@ -1,7 +1,7 @@
 {
   "name": "foundry-module-ts",
   "version": "1.0.0",
-  "description": "A template project for FoundryVTT modules using Typescript",
+  "description": "Orgs, and org mode server, integration into foundry",
   "license": "MIT",
   "private": true,
   "scripts": {

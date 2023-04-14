@@ -1,8 +1,8 @@
 {
   "$schema": "https://json.schemastore.org/foundryvtt-manifest.json",
-  "id": "foundry-module-ts",
-  "title": "Typescript Template Module",
-  "description": "A template module using Typescript. You should change name, title, and description in module.json.",
+  "id": "foundry-orgs",
+  "title": "Orgs org mode server foundry integration",
+  "description": "A Orgs (org mode server) integration with foundryvtt for working with org mode content in foundry",
   "version": "1.0.0",
   "packs": [],
   "system": [],
