@@ -4,7 +4,7 @@ export default class OrgsView extends Application {
   private imageUrl? = "";
 
   override get title(): string {
-    return (game as Game).i18n.localize("MYMODULE.dog-browser");
+    return (game as Game).i18n.localize("FOUNDRYORGS.orgs-browser");
   }
 
   static override get defaultOptions(): ApplicationOptions {

@@ -1,6 +1,6 @@
 {
-  "MYMODULE.dog-browser": "Dog browser",
-  "MYMODULE.dogs": "Dogs",
-  "MYMODULE.fetch-random-dog": "Fetch random dog photo",
-  "MYMODULE.random-dog-alt": "Image of a random dog"
+  "FOUNDRYORGS.orgs-browser": "Orgs browser",
+  "FOUNDRYORGS.orgs": "Orgs",
+  "FOUNDRYORGS.fetch-random-dog": "Fetch random dog photo",
+  "FOUNDRYORGS.random-dog-alt": "Image of a random dog"
 }
